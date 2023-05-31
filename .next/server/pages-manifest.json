@@ -4,6 +4,5 @@
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
   "/api/livros": "pages/api/livros.js",
-  "/LivroLista": "pages/LivroLista.js",
   "/LivroDados": "pages/LivroDados.js"
 }

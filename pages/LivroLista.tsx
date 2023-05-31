@@ -35,7 +35,7 @@ const LivroLista: React.FC = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Loja Next</title>
+        <title>Trabalho Livros Next.js</title>
       </Head>
       <Menu />
 
